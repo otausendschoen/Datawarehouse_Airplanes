@@ -1,0 +1,15 @@
+Connection details (read access only to aims and amos operational databases)
+
+AIMS: 
+hostname: dtim.essi.upc.edu
+port: 5432
+database: aims  (schema: bda-aims)
+
+AMOS: 
+hostname: dtim.essi.upc.edu
+port: 5432
+database: amos (schema: bda-amos)
+
+----- one username for all -------
+username: bse_airlines
+password: BSE2024!
